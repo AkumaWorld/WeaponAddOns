@@ -1,0 +1,7 @@
+Go to (In OPENIV)
+GTAV/mods(if you use mods folder, if not skip)/update/x64/dlcpacks/patchday8ng/dlc.rpf/x64/models/cdimages/weapons.rpf/
+
+drag n' drop.
+If you wish to get the pd2 skin just extract the payday 2 scar-h texture from the original scar-h mod and then replace it
+on the marksmanrifle.ytd files.
+
